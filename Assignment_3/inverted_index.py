@@ -1,10 +1,10 @@
 #-------------------------------------------------------------------------
-# author: your name
+# author: Anson Ng
 # filename: inverted_index.py
 # specification: maintains a mongodb inverted index that stays in sync
 #                with a collection of documents (insert, update, delete)
 # for: cs 4250 - assignment #3
-# time spent: how long it took you to complete the assignment
+# time spent: 1 hour 33 minutes
 #-------------------------------------------------------------------------
 
 # importing python libraries
